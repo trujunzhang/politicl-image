@@ -1,0 +1,6 @@
+http://127.0.0.1:8080/upload/w_333,h_333,q_90/https://www.mozilla.org/media/img/firefox/firefox-256.e2c1fc556816.jpg
+
+http://127.0.0.1:8080/upload/w_480,h_480,q_90/http://s3.firstpost.in/wp-content/uploads/2016/11/India-England-Cricket_Verm4.jpg
+
+http://127.0.0.1:8080/upload/w_333,h_333,q_90/http://s3.firstpost.in/wp-content/uploads/2016/11/India-England-Cricket_Verm4.jpg
+
